@@ -24,3 +24,5 @@ jobs:
         with:
           name: mindmap-app
           path: build/app/outputs/flutter-apk/app-release.apk
+
+          
