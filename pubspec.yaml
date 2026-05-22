@@ -1,0 +1,17 @@
+name: mindmap_app
+description: 离线思维导图
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_mind_map: ^0.0.5
+  hive: ^2.2.0
+  path_provider: ^2.0.0
+
+flutter:
+  uses-material-design: true
